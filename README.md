@@ -1,2 +1,1 @@
-# Restaurant-Management
-Java Spring Boot
+Manages inventory and sales in a Restaurant.
